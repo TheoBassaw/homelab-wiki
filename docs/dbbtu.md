@@ -3,7 +3,7 @@
 One of the most talked about topics when getting into home-labbing is HEAT and NOISE. Most hardware spec sheets will include pertinent information regarding heat output (in BTU/Hour) and noise (dBa). The following information has been aggregated from official documentation. 
 
 
-##A Word on Data
+## A Word on Data
 
 ###General
 
